@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🚀 I’m currently building something exciting at **High Minds Digital** — my own tech startup focused on delivering innovative and scalable digital solutions.
+🚀 I’m a Software Engineer based in Dubai with nearly 3 years of experience in full-stack web and mobile development. I specialize in building scalable, high-performance applications and working across the full      Agile SDLC, from development to deployment and optimization..
 
 
 ## 👨‍💻 Currently Building
