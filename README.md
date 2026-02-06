@@ -1,92 +1,129 @@
-# 💫 About Me
+# 👋 About Me
 
-🚀 I’m a Software Engineer based in Dubai with nearly 3 years of experience in full-stack web and mobile development. I specialize in building scalable, high-performance applications and working across the full      Agile SDLC, from development to deployment and optimization..
+Software Engineer building **scalable, secure, and production-ready web and mobile systems**.  
+Experienced across the full Agile SDLC — from system design and implementation to deployment, scaling, and optimization.
 
+Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and **clean system architecture** for real-world products.
 
-## 👨‍💻 Currently Building
+---
 
-I'm actively working on several impactful projects aimed at solving real-world problems:
+## 🚧 Currently Working On
 
-- 📱 **All-in-One Buy & Sell Mobile App** – A feature-rich platform transforming the local marketplace experience  
-- 💼 **Job Market Web Application** – Seamlessly connecting employers and job seekers  
-- 🛒 **E-commerce Website** – A modern, fast, and scalable online shopping experience  
-- 📷 **QR Scanner Mobile Application** – Lightweight and cross-platform, built with Flutter
+- 🏢 **Multi-Tenant SaaS Application**  
+  Designing and building a scalable SaaS platform with tenant isolation, secure authentication, RBAC, and cloud-ready architecture.
 
-✨ Stay tuned for updates, live demos, and open-source contributions!
+- 📘 **Deepening JavaScript & TypeScript Expertise**  
+  Focusing on language internals, async behavior, performance, type systems, and large-scale application design.
 
+---
 
-## 🧠 Always Learning
+## 🧩 What I Build
 
-Continuously sharpening my skills across multiple domains including:
+### Backend & Systems
+- Scalable backend systems with **Node.js, Express.js, and Nest.js**
+- RESTful and GraphQL APIs with layered architecture, controllers, middleware, validation, and event handling
+- Secure authentication & authorization (JWT, OAuth2, RBAC/ABAC, refresh tokens, MFA/2FA)
+- Webhooks, background jobs, caching, and third-party integrations
+- API security, rate limiting, guards, and policies
 
-- Programming Languages & Frameworks  
-- Databases & Server Infrastructure  
-- AI & ML with a focus on **LLMs (Large Language Models)**
+### Web Applications
+- High-performance web apps with **React, Next.js, Remix, and TypeScript**
+- SSR, SSG, SEO, accessibility, and robust error handling
+- Component-based architecture with reusable UI patterns and clean state management
 
-I believe in learning by building and pushing the boundaries with every new project.
+### Mobile Applications
+- Scalable **Flutter (Dart)** applications
+- Modular widgets, Provider / BLoC state management, async streams
+- Navigation, validation, lazy loading, and error handling
 
+---
 
-## 💬 Let's Connect
+## 🗄️ Data & Infrastructure
+- Databases: **PostgreSQL, MySQL, MongoDB**
+- Caching & performance: **Redis**
+- Schema design, migrations, indexing, backups, and query optimization
+- Cloud deployment on **AWS (EC2, RDS)**, **Firebase**, **Vercel**, **Netlify**
+- CI/CD pipelines using **GitHub**, **Docker**, **Jenkins**, and **Kubernetes**
 
-💡 Always open to collaborate or chat — ask me anything about **PHP**, **Python**, or **MERN stack** development.  
-📫 Reach me at: **mohamedalhamdhy@gmail.com**
+---
 
+## 🔐 Security & Reliability
+- JWT, OAuth2, API keys, token rotation, session management
+- Password hashing, permissions, guards, and policies
+- Webhook validation and payment integrations (**Stripe, WebXPay, PayHere**)
+- Production-grade error handling and logging
 
-## 🌐 Socials:
-[![Linktree](https://img.shields.io/badge/Linktree-43E55C?logo=linktree&logoColor=white)](https://linktr.ee/mohamedalhamdhy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhamdhy/)
-[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://mohamedalhamdhy.vercel.app/)
+---
 
+## 🧰 Tech Stack
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Remix](https://img.shields.io/badge/remix-%2314141E.svg?style=for-the-badge&logo=remix&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Aceternity UI](https://img.shields.io/badge/AceternityUI-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+### Languages
+- JavaScript, TypeScript, Dart
 
-# 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&theme=react&show_icons=true&count_private=true)](https://your-deployment.vercel.app/api?username=mohamedhamdhy&count_private=true
-)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdhy&theme=react&hide_border=false)
+### Backend
+- Node.js, Express.js, Nest.js
+- REST APIs, GraphQL, WebSockets
 
+### Frontend
+- React, Next.js, Remix
+- HTML, CSS, Sass, Tailwind CSS, Bootstrap, Material UI, Aceternity UI
 
+### Mobile
+- Flutter
 
+### Databases & Caching
+- PostgreSQL, MySQL, MongoDB
+- Redis
 
+### DevOps & Cloud
+- AWS (EC2, RDS), Firebase
+- Docker, Kubernetes
+- Vercel, Netlify
+- GitHub, Jenkins, CI/CD pipelines
 
-# 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Integrations
+- Stripe, WebXPay, PayHere
+- OAuth / Social Login
+- SMTP, Twilio
+- Webhooks & Third-party APIs
 
+---
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🤝 Collaboration
+- Worked with cross-functional teams to deliver scalable, high-quality products
+- Translate business requirements into clean, maintainable technical solutions
+- Strong advocate for clean code, simplicity, and long-term maintainability
+
+---
+
+## 🌱 Learning Philosophy
+I learn by **building real systems**, breaking them, fixing them, and scaling them.  
+Always improving architecture decisions, performance trade-offs, and developer experience.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **mohamedalhamdhy@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohamedhamdhy/
+- 🌍 Portfolio: https://mohamedalhamdhy.vercel.app/
+- 🌲 Linktree: https://linktr.ee/mohamedalhamdhy
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&theme=react&show_icons=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdhy&theme=react)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mohamedhamdhy&theme=onedark)
+
+---
+
+## ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
