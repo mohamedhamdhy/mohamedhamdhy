@@ -14,45 +14,7 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 
 - 📘 **Deepening JavaScript & TypeScript Expertise**  
   Focusing on language internals, async behavior, performance, type systems, and large-scale application design.
-
----
-
-## 🧩 What I Build
-
-### Backend & Systems
-- Scalable backend systems with **Node.js, Express.js, and Nest.js**
-- RESTful and GraphQL APIs with layered architecture, controllers, middleware, validation, and event handling
-- Secure authentication & authorization (JWT, OAuth2, RBAC/ABAC, refresh tokens, MFA/2FA)
-- Webhooks, background jobs, caching, and third-party integrations
-- API security, rate limiting, guards, and policies
-
-### Web Applications
-- High-performance web apps with **React, Next.js, Remix, and TypeScript**
-- SSR, SSG, SEO, accessibility, and robust error handling
-- Component-based architecture with reusable UI patterns and clean state management
-
-### Mobile Applications
-- Scalable **Flutter (Dart)** applications
-- Modular widgets, Provider / BLoC state management, async streams
-- Navigation, validation, lazy loading, and error handling
-
----
-
-## 🗄️ Data & Infrastructure
-- Databases: **PostgreSQL, MySQL, MongoDB**
-- Caching & performance: **Redis**
-- Schema design, migrations, indexing, backups, and query optimization
-- Cloud deployment on **AWS (EC2, RDS)**, **Firebase**, **Vercel**, **Netlify**
-- CI/CD pipelines using **GitHub**, **Docker**, **Jenkins**, and **Kubernetes**
-
----
-
-## 🔐 Security & Reliability
-- JWT, OAuth2, API keys, token rotation, session management
-- Password hashing, permissions, guards, and policies
-- Webhook validation and payment integrations (**Stripe, WebXPay, PayHere**)
-- Production-grade error handling and logging
-
+  
 ---
 
 ## 🧰 Tech Stack
@@ -77,8 +39,6 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Aceternity UI](https://img.shields.io/badge/AceternityUI-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
-
-
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
