@@ -58,19 +58,6 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 
 ---
 
-## 🤝 Collaboration
-- Worked with cross-functional teams to deliver scalable, high-quality products
-- Translate business requirements into clean, maintainable technical solutions
-- Strong advocate for clean code, simplicity, and long-term maintainability
-
----
-
-## 🌱 Learning Philosophy
-I learn by **building real systems**, breaking them, fixing them, and scaling them.  
-Always improving architecture decisions, performance trade-offs, and developer experience.
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **mohamedalhamdhy@gmail.com**
