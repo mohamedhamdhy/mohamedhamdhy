@@ -17,34 +17,9 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
   
 ---
 
- 
 ## 📊 Most Used Languages
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical)
- 
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&show_icons=true&theme=radical&hide_border=true&count_private=true)
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdhy&theme=radical&hide_border=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical&hide_border=true&langs_count=8)
- 
-</div>
- 
----
- 
-## 🏆 GitHub Trophies
- 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedhamdhy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
- 
-</div>
  
 ---
  
