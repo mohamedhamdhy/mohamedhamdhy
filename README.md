@@ -4,6 +4,8 @@ Software Engineer building **scalable, secure, and production-ready web and mobi
 Experienced across the full Agile SDLC — from system design and implementation to deployment, scaling, and optimization.
 
 Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and **clean system architecture** for real-world products.
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedhamdhy&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -70,12 +72,6 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 
 ---
 
-## 💰 Support My Work
- 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohamedhamdhy)
- 
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **mohamedalhamdhy@gmail.com**
@@ -90,9 +86,10 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+## 💰 Support My Work
  
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedhamdhy&color=blueviolet&style=for-the-badge)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohamedhamdhy)
+
+---
  
-</div>
