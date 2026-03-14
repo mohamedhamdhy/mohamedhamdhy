@@ -17,6 +17,13 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
   
 ---
 
+ 
+## 📊 Most Used Languages
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical)
+ 
+---
+
 ## 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
