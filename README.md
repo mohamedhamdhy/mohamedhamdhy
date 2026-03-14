@@ -23,6 +23,36 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical)
  
 ---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdhy&theme=radical&hide_border=true)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical&hide_border=true&langs_count=8)
+ 
+</div>
+ 
+---
+ 
+## 🏆 GitHub Trophies
+ 
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedhamdhy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+ 
+</div>
+ 
+---
+ 
+## 📈 Contribution Graph
+ 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedhamdhy&theme=react-dark&hide_border=true)
+ 
+---
 
 ## 🧰 Tech Stack
 
@@ -65,6 +95,12 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 
 ---
 
+## 💰 Support My Work
+ 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohamedhamdhy)
+ 
+---
+
 ## 📫 Connect With Me
 
 - 📧 Email: **mohamedalhamdhy@gmail.com**
@@ -77,3 +113,11 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 ## ✍️ Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+ 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedhamdhy&color=blueviolet&style=for-the-badge)
+ 
+</div>
