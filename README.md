@@ -21,7 +21,7 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 
 ## 📊 Most Used Languages
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical&cache_seconds=1800)
  
 ---
  
