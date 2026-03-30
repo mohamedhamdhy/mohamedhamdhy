@@ -21,7 +21,7 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 
 ## 📊 Most Used Languages
  
-![Top Langs](https://mohamed-al-hamdhy-github-readme.vercel.app/api/top-langs/?username=mohamedhamdhy&layout=compact&theme=radical&langs_count=8)
+[![Anurag's GitHub stats](https://mohamed-al-hamdhy-github-readme.vercel.app/api?username=mohamedalhamdhy)](https://github.com/mohamedhamdhy/github-readme)
  
 ---
  
