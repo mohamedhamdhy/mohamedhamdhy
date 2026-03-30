@@ -16,12 +16,6 @@ Strong focus on **backend engineering**, **JavaScript/TypeScript mastery**, and 
 
 - 📘 **Deepening JavaScript & TypeScript Expertise**  
   Focusing on language internals, async behavior, performance, type systems, and large-scale application design.
-  
----
-
-## 📊 Most Used Languages
- 
-[![Anurag's GitHub stats](https://mohamed-al-hamdhy-github-readme.vercel.app/api?username=mohamedalhamdhy)](https://github.com/mohamedhamdhy/github-readme)
  
 ---
  
